@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MasterDetailPage.Views.AchievemnetsPage">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" Margin="10">
+            <Label Text="Voidud" Font="20" TextColor="Blue" HorizontalTextAlignment="Center"></Label>
+            <Label Text="1. voit" TextColor="Black" HorizontalTextAlignment="Start"></Label>
+            <Label Text="2. voit" TextColor="Black" HorizontalTextAlignment="Start"></Label>
+            <Label Text="3. voit" TextColor="Black" HorizontalTextAlignment="Start"></Label>
+            <Label Text="4. voit" TextColor="Black" HorizontalTextAlignment="Start"></Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
